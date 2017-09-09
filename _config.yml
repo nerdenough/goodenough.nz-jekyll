@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Brendan Goodenough
+description: Full Stack Web Developer
+meta_description: "My personal blog"
 
 aboutPage: true
 
@@ -10,15 +10,15 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'https://goodenough.nz'
+google_analytics: 'UA-96548595-1'
+disqus: true
+disqus_shortname: 'nerdenough'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://goodenough.nz'
+author:         'Brendan Goodenough'
+authorTwitter:  'nerdenough'
 
 permalink:       /:year/:title/
 
