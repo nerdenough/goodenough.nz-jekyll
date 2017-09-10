@@ -12,7 +12,7 @@ paginate: 20
 baseurl: /
 domain_name: 'https://goodenough.nz'
 google_analytics: 'UA-96548595-1'
-disqus: true
+disqus: false
 disqus_shortname: 'nerdenough'
 
 # Details for the RSS feed generator
